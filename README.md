@@ -15,5 +15,3 @@ Aim for about ~150 - 200 first names, and around ~ 200 - 300 names to consider a
 
 
 ### Atributions
-
-https://github.com/smashew/NameDatabases
