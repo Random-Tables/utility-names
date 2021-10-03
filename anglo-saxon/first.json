@@ -1,0 +1,41 @@
+{
+  "male": {
+    "name": "Male First Name:",
+    "table": [
+      "Algar",
+      "ælfgar",
+      "ælfric",
+      "ælred",
+      "athelred",
+      "Bada",
+      "Beorhtric",
+      "Beorhtsige",
+      "Ceadda",
+      "Cenhelm",
+      "Cenric",
+      "Cerdic",
+      "Cuthberht",
+      "Cyneburg",
+      "Cyneheard",
+      "Cynesige",
+      "Deorwine",
+      "Dudda",
+      "Dunstan",
+      "Eadberht",
+      "Eadburga",
+      "Eadmund",
+      "Eadric",
+      "Eadwig",
+      "Ealhstan",
+      "Eardwulf",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "female": {
+    "name": "Female First Name:",
+    "table": ["", "", ""]
+  }
+}
