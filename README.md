@@ -9,7 +9,7 @@ Aim for about ~150 - 200 first names, and around ~ 200 - 300 names to consider a
 <b>Category</b> - <b>Data size</b>
 
 - Anglo Saxon - low
-- English - mid
+- English - high
 - french - low
 
 
