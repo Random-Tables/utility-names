@@ -10,7 +10,8 @@ Aim for about ~150 - 200 first names, and around ~ 200 - 300 names to consider a
 
 - Anglo Saxon - low
 - English - high
-- french - low
+- french - complete
+- tibetan - mid
 
 
 ### Atributions
