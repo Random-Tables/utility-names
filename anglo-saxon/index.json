@@ -1,8 +1,0 @@
-{
-  "collectionID": "anglo-saxon",
-  "collectionName": "Anglo Saxon Names",
-  "category": "Utility",
-  "isUtility": true,
-  "tags": ["names", "medieval", "low-fantasy"],
-  "tables": { "first": ["male", "female"], "surname": ["all"] }
-}
