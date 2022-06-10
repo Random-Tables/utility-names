@@ -1,8 +1,0 @@
-{
-  "collectionID": "french",
-  "collectionName": "French Names",
-  "category": "Utility",
-  "isUtility": true,
-  "tags": ["names", "modern", "low-fantasy"],
-  "tables": { "first": ["male", "female"], "surname": ["all"] }
-}

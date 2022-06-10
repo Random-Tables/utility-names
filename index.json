@@ -1,0 +1,20 @@
+{
+  "collectionID": "utility-names",
+  "collectionName": "Utility Names",
+  "category": "Utility",
+  "isUtility": true,
+  "version": 2,
+  "tags": ["names"],
+  "tables": {
+    "english": [
+      "male",
+      "female",
+      "surname",
+      "surname-start",
+      "surname-end",
+      "surname-gen"
+    ],
+    "french": ["male", "female", "surname"],
+    "tibetan": ["male", "female", "surname"]
+  }
+}
