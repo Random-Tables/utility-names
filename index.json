@@ -4,7 +4,7 @@
   "category": "Utility",
   "isUtility": true,
   "version": 2,
-  "tags": ["names"],
+  "tags": ["names", "modern"],
   "tables": {
     "english": [
       "male",
