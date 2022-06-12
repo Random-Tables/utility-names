@@ -481,13 +481,15 @@
   },
   "surname-gen": {
     "table": [
-      "{{utility-names/english/surname-start:john}}{{utility-names/english/surname-end:son}}"
+      "{{utility-names/english/surname-start:john}}{{utility-names/english/surname-end:son}}",
+      "{{utility-names/english/surname-start:john}}{{utility-names/english/surname-end:son}}{{utility-names/english/surname-end:son}}"
     ]
   },
   "surname-mix": {
     "table": [
       "{{utility-names/english/surname-gen:johnson}}",
-      "{{utility-names/english/surname:upcliffe}}"
+      "{{utility-names/english/surname:upcliffe}}",
+      "{{utility-names/english/surname:upcliffe}}-{{utility-names/english/surname-gen:johnson}}"
     ]
   }
 }
