@@ -1,0 +1,23 @@
+{
+  "name": "@random-tables/utility-names",
+  "version": "1.2.4",
+  "description": "names data for random tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Random-Tables/utility-names.git"
+  },
+  "keywords": [
+    "rpg",
+    "table"
+  ],
+  "author": "aronedwards91",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Random-Tables/utility-names/issues"
+  },
+  "homepage": "https://github.com/Random-Tables/utility-names#readme"
+}
