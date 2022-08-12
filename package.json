@@ -1,6 +1,6 @@
 {
   "name": "@random-tables/utility-names",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "names data for random tables",
   "main": "index.js",
   "scripts": {
