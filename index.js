@@ -3,7 +3,7 @@ const english = require("./english.json");
 const french = require("./french.json");
 const tibetan = require("./tibetan.json");
 
-exports.index = {
+module.exports = {
   ...index,
   tableData: {
     english,
